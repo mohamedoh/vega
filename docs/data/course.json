@@ -1,0 +1,82 @@
+[
+  {
+    "Course": "Course C",
+    "Record Count": 26
+  },
+  {
+    "Course": "Course D",
+    "Record Count": 32
+  },
+  {
+    "Course": "Course B",
+    "Record Count": 54
+  },
+  {
+    "Course": "Course E",
+    "Record Count": 26
+  },
+  {
+    "Course": "Course A",
+    "Record Count": 25
+  },
+  {
+    "Course": "Course Z",
+    "Record Count": 14
+  },
+  {
+    "Course": "Course M",
+    "Record Count": 63
+  },
+  {
+    "Course": "Course R",
+    "Record Count": 54
+  },
+  {
+    "Course": "Course T",
+    "Record Count": 9
+  },
+  {
+    "Course": "Course Y",
+    "Record Count": 22
+  },
+  {
+    "Course": "Course U",
+    "Record Count": 15
+  },
+  {
+    "Course": "Course I",
+    "Record Count": 64
+  },
+  {
+    "Course": "Course O",
+    "Record Count": 83
+  },
+  {
+    "Course": "Course P",
+    "Record Count": 91
+  },
+  {
+    "Course": "Course Q",
+    "Record Count": 39
+  },
+  {
+    "Course": "Course S",
+    "Record Count": 47
+  },
+  {
+    "Course": "Course F",
+    "Record Count": 48
+  },
+  {
+    "Course": "Course G",
+    "Record Count": 55
+  },
+  {
+    "Course": "Course H",
+    "Record Count": 44
+  },
+  {
+    "Course": "Course J",
+    "Record Count": 58
+  }
+]
